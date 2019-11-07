@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="DBPTest">
+  
+  	<parameter name="url" value="http://192.168.1.168/dbp_webui/#/"/>
+  	<parameter name="loginId" value="vishnu.s@flamencotech.com"/>
+  	<parameter name="password" value="Abcd@1234"/>
+    <classes>
+      <class name="com.IBA.Login"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

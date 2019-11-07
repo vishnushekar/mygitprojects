@@ -1,0 +1,7 @@
+ChromeDriver=D:/chrome78/chromedriver_win32/chromedriver.exe
+
+URL=http://13.72.253.0/dbp_webui/#/app
+Username=vishnu.s@flamencotech.com		
+Password=Abcd@1234
+Username2=vijayavshnu21@gmail.com
+Password2=@Abcd1234

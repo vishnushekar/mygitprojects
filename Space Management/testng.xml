@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="userrole">
+  <classes>
+  <class name="com.sm_userrole.Login"/>
+  <class name="com.sm_userrole.Newrole"/>
+  </classes>
+  </test>
+</suite> 

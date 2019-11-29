@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41353" started-at="2019-09-06T09:14:05Z" finished-at="2019-09-06T09:14:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41353" started-at="2019-09-06T09:14:05Z" finished-at="2019-09-06T09:14:46Z">
+      <class name="com.sm_crud.db">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sm_crud.db@5e3a8624]" name="beforeTest" is-config="true" duration-ms="3990" started-at="2019-09-06T14:44:05Z" finished-at="2019-09-06T14:44:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.sm_crud.db@5e3a8624]" name="login" duration-ms="15447" started-at="2019-09-06T14:44:09Z" finished-at="2019-09-06T14:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Configuration()[pri:0, instance:com.sm_crud.db@5e3a8624]" name="Configuration" duration-ms="12831" started-at="2019-09-06T14:44:25Z" finished-at="2019-09-06T14:44:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Configuration -->
+        <test-method status="PASS" signature="createuser()[pri:0, instance:com.sm_crud.db@5e3a8624]" name="createuser" duration-ms="5218" started-at="2019-09-06T14:44:37Z" finished-at="2019-09-06T14:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createuser -->
+        <test-method status="PASS" signature="viewuser()[pri:0, instance:com.sm_crud.db@5e3a8624]" name="viewuser" duration-ms="3739" started-at="2019-09-06T14:44:43Z" finished-at="2019-09-06T14:44:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewuser -->
+      </class> <!-- com.sm_crud.db -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
